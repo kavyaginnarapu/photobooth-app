@@ -22,6 +22,7 @@ const Photobooth = () => {
       ))}
     </div>
   );
+  
 };
 
 export default Photobooth;
